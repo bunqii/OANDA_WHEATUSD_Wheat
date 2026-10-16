@@ -1,0 +1,119 @@
+{
+  "pod_version": "4.0",
+  "instrument": "WHEAT_USD",
+  "granularity": "M1",
+  "chunk_start": "2012-06-01",
+  "chunk_end": "2012-06-30",
+  "parquet_file": "OANDA_WHEATUSD_Wheat_1_2012-06-01_to_2012-06-30.parquet",
+  "data_file": "OANDA_WHEATUSD_Wheat_1_2012-06-01_to_2012-06-30.parquet",
+  "row_count": 11672,
+  "first_candle": {
+    "time": 1338508800,
+    "Time": "2012-06-01T00:00:00.000000000Z",
+    "open": 6.398,
+    "high": 6.4,
+    "low": 6.398,
+    "close": 6.4,
+    "volume": 4
+  },
+  "last_candle": {
+    "time": 1340993640,
+    "Time": "2012-06-29T18:14:00.000000000Z",
+    "open": 7.356,
+    "high": 7.356,
+    "low": 7.356,
+    "close": 7.356,
+    "volume": 1
+  },
+  "csv_file": "OANDA_WHEATUSD_Wheat_1_2012-06-01_to_2012-06-30.parquet",
+  "csv_row_count": 11672,
+  "csv_first_candle": {
+    "time": 1338508800,
+    "Time": "2012-06-01T00:00:00.000000000Z",
+    "open": 6.398,
+    "high": 6.4,
+    "low": 6.398,
+    "close": 6.4,
+    "volume": 4
+  },
+  "csv_last_candle": {
+    "time": 1340993640,
+    "Time": "2012-06-29T18:14:00.000000000Z",
+    "open": 7.356,
+    "high": 7.356,
+    "low": 7.356,
+    "close": 7.356,
+    "volume": 1
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-16T03:15:40.000000000Z",
+  "generated_at": "2026-10-16T03:15:40.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2482,
+    "chunk_api_blocks": 10,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2012-05-30T05:30:00Z",
+        "to": "2012-06-02T16:50:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-02T16:50:00Z",
+        "to": "2012-06-06T04:10:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-06T04:10:00Z",
+        "to": "2012-06-09T15:30:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-09T15:30:00Z",
+        "to": "2012-06-13T02:50:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-13T02:50:00Z",
+        "to": "2012-06-16T14:10:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-16T14:10:00Z",
+        "to": "2012-06-20T01:30:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-20T01:30:00Z",
+        "to": "2012-06-23T12:50:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-23T12:50:00Z",
+        "to": "2012-06-27T00:10:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-27T00:10:00Z",
+        "to": "2012-06-30T11:30:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2012-06-30T11:30:00Z",
+        "to": "2012-07-03T22:50:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
