@@ -6,7 +6,7 @@
   "chunk_end": "2026-10-31",
   "parquet_file": "OANDA_WHEATUSD_Wheat_1_2026-10-01_to_2026-10-31.parquet",
   "data_file": "OANDA_WHEATUSD_Wheat_1_2026-10-01_to_2026-10-31.parquet",
-  "row_count": 13795,
+  "row_count": 14351,
   "first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 12
   },
   "last_candle": {
-    "time": 1792733160,
-    "Time": "2026-10-23T05:26:00.000000000Z",
-    "open": 6.197,
-    "high": 6.197,
-    "low": 6.197,
-    "close": 6.197,
+    "time": 1792779360,
+    "Time": "2026-10-23T18:16:00.000000000Z",
+    "open": 6.173,
+    "high": 6.173,
+    "low": 6.173,
+    "close": 6.173,
     "volume": 1
   },
   "csv_file": "OANDA_WHEATUSD_Wheat_1_2026-10-01_to_2026-10-31.parquet",
-  "csv_row_count": 13795,
+  "csv_row_count": 14351,
   "csv_first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 12
   },
   "csv_last_candle": {
-    "time": 1792733160,
-    "Time": "2026-10-23T05:26:00.000000000Z",
-    "open": 6.197,
-    "high": 6.197,
-    "low": 6.197,
-    "close": 6.197,
+    "time": 1792779360,
+    "Time": "2026-10-23T18:16:00.000000000Z",
+    "open": 6.173,
+    "high": 6.173,
+    "low": 6.173,
+    "close": 6.173,
     "volume": 1
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-23T05:28:06.000000000Z",
-  "generated_at": "2026-10-23T05:28:06.000000000Z",
+  "verified_at": "2026-10-24T05:20:34.000000000Z",
+  "generated_at": "2026-10-24T05:20:34.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-22T05:26:00Z",
-        "to": "2026-10-23T05:27:00Z",
+        "from": "2026-10-23T05:21:00Z",
+        "to": "2026-10-23T18:17:00Z",
         "code": 200,
         "msg": "OK"
       }
